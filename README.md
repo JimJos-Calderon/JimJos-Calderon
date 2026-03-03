@@ -47,83 +47,63 @@ I’m a **Cross-Platform Application Development (DAM)** student and I’m curre
 
 ## 🌌 Proyectos | Projects
 
-<!-- Glow style (copy/pasted per image because GitHub markdown doesn't support variables) -->
-<!-- border + neon box-shadow -->
-<!-- Tip: keep max-width percentages as-is for responsive layout -->
-
 ### J&N (responsive)
 **Live:** https://jandn.onrender.com
 
-<p align="center">
-  <img
-    src="assets/jand-landingpage-desktop.png"
-    alt="J&N landing (desktop)"
-    width="78%"
-    style="border-radius:14px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 18px rgba(0,229,255,.35),0 0 34px rgba(255,45,149,.22);"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame top"/>
+      <img src="assets/jand-landingpage-desktop.png" width="100%" alt="J&N landing (desktop)"/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame bottom"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="assets/jand-login-desktop.png"
-    alt="J&N login (desktop)"
-    width="78%"
-    style="border-radius:14px;border:1px solid rgba(124,0,255,.55);box-shadow:0 0 18px rgba(124,0,255,.32),0 0 34px rgba(0,229,255,.20);"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="assets/jand-series-desktop.png"
-    alt="J&N series (desktop)"
-    width="78%"
-    style="border-radius:14px;border:1px solid rgba(255,45,149,.55);box-shadow:0 0 18px rgba(255,45,149,.30),0 0 34px rgba(0,229,255,.18);"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="assets/jand-login-mobile.png"
-    alt="J&N login (mobile)"
-    width="32%"
-    style="border-radius:18px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 16px rgba(0,229,255,.35),0 0 28px rgba(255,45,149,.20);margin:6px;"
-  />
-  <img
-    src="assets/jand-movies-mobile.png"
-    alt="J&N movies (mobile)"
-    width="32%"
-    style="border-radius:18px;border:1px solid rgba(255,45,149,.55);box-shadow:0 0 16px rgba(255,45,149,.30),0 0 28px rgba(0,229,255,.20);margin:6px;"
-  />
-</p>
+<table>
+  <tr>
+    <td width="49%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame top"/>
+      <img src="assets/jand-login-mobile.png" width="100%" alt="J&N login (mobile)"/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame bottom"/>
+    </td>
+    <td width="49%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame top"/>
+      <img src="assets/jand-movies-mobile.png" width="100%" alt="J&N movies (mobile)"/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame bottom"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Pricing
 **Live:** https://pricing-fxsd.onrender.com/
 
-<p align="center">
-  <img
-    src="assets/pricing-login-desktop.png"
-    alt="Pricing login (desktop)"
-    width="78%"
-    style="border-radius:14px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 18px rgba(0,229,255,.35),0 0 34px rgba(255,45,149,.22);"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame top"/>
+      <img src="assets/pricing-login-desktop.png" width="100%" alt="Pricing login (desktop)"/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame bottom"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ReadyPlater Blog
 **Live:** https://readyplaterblog.onrender.com/
 
-<p align="center">
-  <img
-    src="assets/readyplaterblog.png"
-    alt="ReadyPlater Blog"
-    width="78%"
-    style="border-radius:14px;border:1px solid rgba(124,0,255,.55);box-shadow:0 0 18px rgba(124,0,255,.32),0 0 34px rgba(0,229,255,.20);"
-  />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame top"/>
+      <img src="assets/readyplaterblog.png" width="100%" alt="ReadyPlater Blog"/>
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="neon frame bottom"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📡 Contacto | Contact
