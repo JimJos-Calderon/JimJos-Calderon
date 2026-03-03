@@ -10,6 +10,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/216649440-2a7a6d4b-bb06-4a3b-a8a4-c9f189b5d0a2.gif" width="760" alt="neon divider"/>
 </p>
 
+<!-- Reusable "glow frame" for images: GitHub README supports inline HTML style -->
+<!-- Night-blue base + cyan/magenta neon glow -->
+<!-- Use like: <img ... style="..."> -->
+
 ## 👾 Sobre mí | About me
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando mis **prácticas**.  
 I’m a **Cross-Platform Application Development (DAM)** student and I’m currently doing my **internship**.
@@ -43,24 +47,53 @@ I’m a **Cross-Platform Application Development (DAM)** student and I’m curre
 
 ## 🌌 Proyectos | Projects
 
+<!-- Glow style (copy/pasted per image because GitHub markdown doesn't support variables) -->
+<!-- border + neon box-shadow -->
+<!-- Tip: keep max-width percentages as-is for responsive layout -->
+
 ### J&N (responsive)
 **Live:** https://jandn.onrender.com
 
 <p align="center">
-  <img src="assets/jand-landingpage-desktop.png" width="78%" alt="J&N landing (desktop)" />
+  <img
+    src="assets/jand-landingpage-desktop.png"
+    alt="J&N landing (desktop)"
+    width="78%"
+    style="border-radius:14px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 18px rgba(0,229,255,.35),0 0 34px rgba(255,45,149,.22);"
+  />
 </p>
 
 <p align="center">
-  <img src="assets/jand-login-desktop.png" width="78%" alt="J&N login (desktop)" />
+  <img
+    src="assets/jand-login-desktop.png"
+    alt="J&N login (desktop)"
+    width="78%"
+    style="border-radius:14px;border:1px solid rgba(124,0,255,.55);box-shadow:0 0 18px rgba(124,0,255,.32),0 0 34px rgba(0,229,255,.20);"
+  />
 </p>
 
 <p align="center">
-  <img src="assets/jand-series-desktop.png" width="78%" alt="J&N series (desktop)" />
+  <img
+    src="assets/jand-series-desktop.png"
+    alt="J&N series (desktop)"
+    width="78%"
+    style="border-radius:14px;border:1px solid rgba(255,45,149,.55);box-shadow:0 0 18px rgba(255,45,149,.30),0 0 34px rgba(0,229,255,.18);"
+  />
 </p>
 
 <p align="center">
-  <img src="assets/jand-login-mobile.png" width="32%" alt="J&N login (mobile)" />
-  <img src="assets/jand-movies-mobile.png" width="32%" alt="J&N movies (mobile)" />
+  <img
+    src="assets/jand-login-mobile.png"
+    alt="J&N login (mobile)"
+    width="32%"
+    style="border-radius:18px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 16px rgba(0,229,255,.35),0 0 28px rgba(255,45,149,.20);margin:6px;"
+  />
+  <img
+    src="assets/jand-movies-mobile.png"
+    alt="J&N movies (mobile)"
+    width="32%"
+    style="border-radius:18px;border:1px solid rgba(255,45,149,.55);box-shadow:0 0 16px rgba(255,45,149,.30),0 0 28px rgba(0,229,255,.20);margin:6px;"
+  />
 </p>
 
 ---
@@ -68,7 +101,14 @@ I’m a **Cross-Platform Application Development (DAM)** student and I’m curre
 ### Pricing
 **Live:** https://pricing-fxsd.onrender.com/
 
-*(Si subes 1 captura desktop + 1 mobile a `assets/`, te lo dejo igual de pro.)*
+<p align="center">
+  <img
+    src="assets/pricing-login-desktop.png"
+    alt="Pricing login (desktop)"
+    width="78%"
+    style="border-radius:14px;border:1px solid rgba(0,229,255,.55);box-shadow:0 0 18px rgba(0,229,255,.35),0 0 34px rgba(255,45,149,.22);"
+  />
+</p>
 
 ---
 
@@ -76,7 +116,12 @@ I’m a **Cross-Platform Application Development (DAM)** student and I’m curre
 **Live:** https://readyplaterblog.onrender.com/
 
 <p align="center">
-  <img src="assets/readyplaterblog.png" width="78%" alt="ReadyPlater Blog" />
+  <img
+    src="assets/readyplaterblog.png"
+    alt="ReadyPlater Blog"
+    width="78%"
+    style="border-radius:14px;border:1px solid rgba(124,0,255,.55);box-shadow:0 0 18px rgba(124,0,255,.32),0 0 34px rgba(0,229,255,.20);"
+  />
 </p>
 
 ---
