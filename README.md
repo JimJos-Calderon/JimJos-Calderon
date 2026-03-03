@@ -1,18 +1,22 @@
+<!-- Cyberpunk / Neonwave README (stable, minimal external deps) -->
+
+<h1 align="center">JimJos Calderon</h1>
+<p align="center"><b>DAM Student · Intern · Neonwave / Cyberpunk vibes</b></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c00ff,100:ff2d95&height=230&section=header&text=JimJos%20Calderon&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DAM%20Student%20%7C%20Intern%20%7C%20Frontend%20%26%20Fullstack%20curious&descAlignY=62" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="860" alt="Neon separator" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Estudiante+de+DAM+%7C+Haciendo+pr%C3%A1cticas;React+%7C+Angular+%7C+TypeScript+%7C+Node.js;Java+%7C+Python+%7C+Astro+%7C+Docker;Building+responsive+web+apps+%E2%9A%A1" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Estudiante+de+DAM+%7C+Haciendo+pr%C3%A1cticas;React+%7C+Angular+%7C+TypeScript+%7C+Node.js;Java+%7C+Python+%7C+Astro+%7C+Docker;Building+responsive+web+apps+%E2%9A%A1"
+    alt="Typing intro"
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649440-2a7a6d4b-bb06-4a3b-a8a4-c9f189b5d0a2.gif" width="760" alt="neon divider"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="860" alt="Neon separator" />
 </p>
-
-<!-- Reusable "glow frame" for images: GitHub README supports inline HTML style -->
-<!-- Night-blue base + cyan/magenta neon glow -->
-<!-- Use like: <img ... style="..."> -->
 
 ## 👾 Sobre mí | About me
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando mis **prácticas**.  
@@ -104,20 +108,13 @@ I’m a **Cross-Platform Application Development (DAM)** student and I’m curre
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📡 Contacto | Contact
 - GitHub: https://github.com/JimJos-Calderon  
 - Email: **jimjos.calderon@gmail.com**
 
----
-
-## 📈 Stats (opcional)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JimJos-Calderon&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimJos-Calderon&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c00ff,100:ff2d95&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="860" alt="Neon footer" />
 </p>
