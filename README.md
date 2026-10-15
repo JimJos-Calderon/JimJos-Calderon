@@ -1,7 +1,7 @@
 <!-- Cyberpunk / Neonwave README (stable, minimal external deps) -->
 
 <h1 align="center">JimJos Calderon</h1>
-<p align="center"><b>DAM Student · Intern · Neonwave / Cyberpunk vibes</b></p>
+<p align="center"><b>Developer · Intern · Neonwave / Cyberpunk vibes</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="860" alt="Neon separator" />
@@ -19,7 +19,7 @@
 </p>
 
 ## 👾 Sobre mí | About me
-Soy Jimmy Calderón,  **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando  **en busqueda de trabajo**.  
+Soy Jimmy Calderón,  **Desarrollador de Aplicaciones Multiplataforma ** y actualmente estoy   **en busqueda de trabajo**.  
 
 
 - 📍 España | Spain  
