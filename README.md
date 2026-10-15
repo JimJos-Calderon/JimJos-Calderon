@@ -19,7 +19,7 @@
 </p>
 
 ## 👾 Sobre mí | About me
-Soy Jimmy Calderón,  **Desarrollador de Aplicaciones Multiplataforma ** y actualmente estoy   **en busqueda de trabajo**.  
+Soy Jimmy Calderón,  **Desarrollador de Aplicaciones Multiplataforma** y actualmente estoy   **en busqueda de trabajo**.  
 
 
 - 📍 España | Spain  
