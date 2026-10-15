@@ -19,8 +19,8 @@
 </p>
 
 ## 👾 Sobre mí | About me
-Soy Jimmy Calderón, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando mis **prácticas**.  
-I’m a **Cross-Platform Application Development (DAM)** student and I’m currently doing my **internship**.
+Soy Jimmy Calderón,  **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy realizando  **en busqueda de trabajo**.  
+
 
 - 📍 España | Spain  
 - 🧠 Enfocado en | Focused on: responsive web apps, UI, buenas prácticas  
